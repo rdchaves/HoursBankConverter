@@ -14,8 +14,8 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.StringUtils;
 
+import rodrigo.chaves.hoursbankconverter.exporter.ExcelExporter;
 import rodrigo.chaves.hoursbankconverter.reader.impl.LineSplitReader;
-import br.com.passeionaweb.android.hoursbank.exporter.ExcelExporter;
 
 public class App implements Runnable {
 

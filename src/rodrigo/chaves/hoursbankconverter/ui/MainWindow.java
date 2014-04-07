@@ -24,9 +24,9 @@ import org.apache.commons.io.IOUtils;
 import org.apache.commons.io.LineIterator;
 import org.apache.commons.lang3.StringUtils;
 
+import rodrigo.chaves.hoursbankconverter.exporter.ExcelExporter;
 import rodrigo.chaves.hoursbankconverter.reader.impl.LineSplitReader;
 
-import br.com.passeionaweb.android.hoursbank.exporter.ExcelExporter;
 
 import com.jeta.forms.components.panel.FormPanel;
 
